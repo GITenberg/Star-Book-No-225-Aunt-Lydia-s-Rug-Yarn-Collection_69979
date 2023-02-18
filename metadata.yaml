@@ -1,0 +1,31 @@
+_repo: Star-Book-No-225-Aunt-Lydia-s-Rug-Yarn-Collection_69979
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-02-07'
+identifiers:
+  gutenberg: '69979'
+language: en
+pgterms:marc905: 20200121163231anonymous
+pgterms:marc906: '1979'
+pgterms:marc907: US
+production_note: Stephen Hutcheson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: '  $aUnited States :$bAmerican Thread Company, $c1979.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Star Book No. 225: Aunt Lydia''s Rug Yarn Collection'
+url: http://www.gutenberg.org/ebooks/69979
